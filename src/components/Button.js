@@ -3,7 +3,7 @@ import React from 'react';
 
     
 const Button = props => (
-    <div className= ' dib br3 pa3 ma2 bw2 shadow-5 center'>
+    <div className= 'dib br3 pa3 ma2 bw2 shadow-5 center'>
     
         <form onSubmit={props.getRandomChuckJoke}>  
         <select className='w-15 grow f6 fw6 ttu tracked'  name="category">
@@ -23,7 +23,8 @@ const Button = props => (
         <option value = 'sport'>sport</option>
         <option value = 'travel'>travel</option>
 </select>
-            <button className='w-15 grow'>Get Random Joke</button>
+
+            <button className='w-15 grow mr2'>Get Random Joke</button>
         </form>
     </div>
 );
