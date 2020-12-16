@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/css/main.bc6b2251.chunk.css",
+    "main.js": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/main.d2d06110.chunk.js",
+    "main.js.map": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/main.d2d06110.chunk.js.map",
+    "runtime-main.js": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/runtime-main.4d8e85e2.js",
+    "runtime-main.js.map": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/runtime-main.4d8e85e2.js.map",
+    "static/css/2.31461e4f.chunk.css": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/css/2.31461e4f.chunk.css",
+    "static/js/2.654d6db6.chunk.js": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/2.654d6db6.chunk.js",
+    "static/js/2.654d6db6.chunk.js.map": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/2.654d6db6.chunk.js.map",
+    "static/js/3.af53177f.chunk.js": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/3.af53177f.chunk.js",
+    "static/js/3.af53177f.chunk.js.map": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/3.af53177f.chunk.js.map",
+    "index.html": "/how%20to%20upload%20react%20project%20to%20github%20pages/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.bc6b2251.chunk.css.map": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/css/main.bc6b2251.chunk.css.map",
+    "static/js/2.654d6db6.chunk.js.LICENSE.txt": "/how%20to%20upload%20react%20project%20to%20github%20pages/static/js/2.654d6db6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d8e85e2.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.654d6db6.chunk.js",
+    "static/css/main.bc6b2251.chunk.css",
+    "static/js/main.d2d06110.chunk.js"
+  ]
+}
